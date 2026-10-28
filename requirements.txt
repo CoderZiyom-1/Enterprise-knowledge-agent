@@ -1,0 +1,9 @@
+langgraph
+langchain-core
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+tavily-python
+python-dotenv
