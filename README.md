@@ -82,7 +82,6 @@ Being honest about these:
 agent.py          LangGraph agent (the 5 steps)
 trust.py          source trust, citation check, confidence rules
 run_tests.py      runs the test questions
-list_models.py    lists the Groq models your key can use
 requirements.txt
 .env.example
 ```
